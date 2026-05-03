@@ -11,7 +11,7 @@ Janashakti is a Flutter-based application that allows users to report public iss
 * Issue Status (Pending → Solved)
 * Admin Panel (basic)
 
-## 🛠️ Technology Used
+##  Technology Used
 
 * Flutter (Frontend)
 * Firebase Authentication
